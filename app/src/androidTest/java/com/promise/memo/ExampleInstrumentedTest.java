@@ -1,4 +1,4 @@
-package com.promise.memo;
+package com.android.memo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

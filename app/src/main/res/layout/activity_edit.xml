@@ -8,7 +8,7 @@ android:layout_height="match_parent"
 android:background="@color/grey_100"
 android:orientation="vertical"
 app:layout_behavior="@string/appbar_scrolling_view_behavior"
-tools:context="com.promise.memo.UI.EditActivity">
+tools:context="com.android.memo.UI.EditActivity">
 
 <EditText
     android:id="@+id/et_new_title"
@@ -43,7 +43,6 @@ tools:context="com.promise.memo.UI.EditActivity">
         android:id="@+id/type_select"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:entries="@array/note_type"
         android:layout_alignParentRight="true"
         android:textSize="@dimen/text_size_14"
         android:textColor="@color/grey_800"
@@ -52,6 +51,7 @@ tools:context="com.promise.memo.UI.EditActivity">
 </RelativeLayout>
 
 <EditText
+    android:hint="请输入内容"
     android:id="@+id/et_new_content"
     android:layout_width="match_parent"
     android:layout_height="match_parent"

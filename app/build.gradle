@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25 //25->26
     //buildToolsVersion "25.0.2"
     defaultConfig {
-        applicationId "com.promise.memo"
+        applicationId "com.android.memo"
         minSdkVersion 18
         targetSdkVersion 25  //25->26
         versionCode 1

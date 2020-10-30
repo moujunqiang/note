@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/grey_000"
+    android:padding="@dimen/activity_margin_10">
+
+    <TextView
+        android:padding="5dp"
+        android:gravity="center"
+        android:id="@+id/tv_type"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="标题"
+        android:textColor="@color/grey_800"
+        android:textSize="@dimen/text_size_18" />
+
+
+</RelativeLayout>

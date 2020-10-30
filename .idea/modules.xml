@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Memo.iml" filepath="$PROJECT_DIR$/Memo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Memo-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Memo-app.iml" group="Memo/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/download-Memo.iml" filepath="$PROJECT_DIR$/.idea/modules/download-Memo.iml" group="Memo" />
     </modules>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package com.promise.memo;
+package com.android.memo;
 
 import org.junit.Test;
 

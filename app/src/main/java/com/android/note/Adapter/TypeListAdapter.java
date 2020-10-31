@@ -1,24 +1,20 @@
-package com.android.memo.Adapter;
+package com.android.note.Adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
-import android.view.ContextMenu;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.android.memo.Bean.NoteBean;
-import com.android.memo.Bean.TypeBean;
+import com.android.note.Bean.NoteBean;
+import com.android.note.Bean.TypeBean;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.android.memo.R.drawable;
-import static com.android.memo.R.id;
-import static com.android.memo.R.layout;
+import static com.android.note.R.id;
+import static com.android.note.R.layout;
 
 /**
  * RecyclerView适配器

@@ -1,4 +1,4 @@
-package com.android.memo.Bean;
+package com.android.note.Bean;
 
 
 public class TypeBean {

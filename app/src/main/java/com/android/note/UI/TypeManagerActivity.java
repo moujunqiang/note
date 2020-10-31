@@ -1,4 +1,4 @@
-package com.android.memo.UI;
+package com.android.note.UI;
 
 import android.app.AlertDialog;
 import android.content.DialogInterface;
@@ -9,12 +9,11 @@ import android.support.v7.widget.RecyclerView;
 import android.text.TextUtils;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.Toast;
 
-import com.android.memo.Adapter.TypeListAdapter;
-import com.android.memo.Bean.TypeBean;
-import com.android.memo.DB.TypeDao;
-import com.android.memo.R;
+import com.android.note.Adapter.TypeListAdapter;
+import com.android.note.Bean.TypeBean;
+import com.android.note.DB.TypeDao;
+import com.android.note.R;
 
 import java.util.List;
 

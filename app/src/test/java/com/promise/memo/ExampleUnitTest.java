@@ -1,4 +1,4 @@
-package com.android.memo;
+package com.android.note;
 
 import org.junit.Test;
 

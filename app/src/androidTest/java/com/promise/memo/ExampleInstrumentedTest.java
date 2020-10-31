@@ -1,4 +1,4 @@
-package com.android.memo;
+package com.android.note;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

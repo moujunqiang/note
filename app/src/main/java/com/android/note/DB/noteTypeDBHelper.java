@@ -1,4 +1,4 @@
-package com.android.memo.DB;
+package com.android.note.DB;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

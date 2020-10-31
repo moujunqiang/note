@@ -1,12 +1,11 @@
-package com.android.memo.DB;
+package com.android.note.DB;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.android.memo.Bean.NoteBean;
-import com.android.memo.Bean.TypeBean;
+import com.android.note.Bean.TypeBean;
 
 import java.util.ArrayList;
 import java.util.List;
